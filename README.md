@@ -1,7 +1,7 @@
-# Starter Web Repo
+# Starter blah blah
 
-This repository is for showing how Git and GitHub work
+## Introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+## Hioe to Contribute[D[D[D[D[D[D[D[D[D[D[D[D[Dow[C[C[C[[C[C[C[C[C[C[C[C[C[C[C[C[C[C
