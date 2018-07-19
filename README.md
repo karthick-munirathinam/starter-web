@@ -10,6 +10,6 @@
 
 ### Copyright
 
-2014 Git training
+2014 Git training all rights reserved
 I also added this line for my mistakes
 
