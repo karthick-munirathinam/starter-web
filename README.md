@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Purpose
-    branching test. Adding a file for Rebasing example.
+    more edit on feature branch. branching test. Adding a file for Rebasing example.
 ## Deployment
 
 ## How to Contribute
